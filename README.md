@@ -5,8 +5,7 @@ This repo contains various different datasets and codes with various different a
 The repository also contains an `environment.yml` file which also contains all the specific versions and libraries used for all the notebooks.<br>
 <h3>To create the environment</h3>
 <br>
-<ol>
-  <li>Use the terminal or an Anaconda Prompt for the following steps:<br>
+  Use the terminal or an Anaconda Prompt for the following steps:<br>
   Create the environment from the environment.yml file:<br>
     
 ```
@@ -21,7 +20,7 @@ conda env create -f environment.yml
     conda activate myenv
     ```
     
-<br><br>
+<br>
     Verify that the new environment was installed correctly:<br>
     `
     conda env list
@@ -32,7 +31,3 @@ conda env create -f environment.yml
     conda info --envs
     
     ```
-</li>
-    
-    
-  </ol>

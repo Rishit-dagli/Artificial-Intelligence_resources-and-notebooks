@@ -8,20 +8,30 @@ The repository also contains an `environment.yml` file which also contains all t
 <ol>
   <li>Use the terminal or an Anaconda Prompt for the following steps:<br>
   Create the environment from the environment.yml file:<br>
-    `
-    conda env create -f environment.yml
-    `<br>
+    
+```
+conda env create -f environment.yml
+```
+<br>
     The first line of the yml file sets the new environment's name. For details see [Creating an environment file manually](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#create-env-file-manually).<br>
     Activate the new environment:
     <br>
-    `
+    
+    ```
     conda activate myenv
-    `<br>
+    ```
+    
+<br><br>
     Verify that the new environment was installed correctly:<br>
     `
     conda env list
     `<br>
-    You can also use conda `info --envs`.
+    You can also use 
+    
+    ```
+    conda info --envs
+    
+    ```
 </li>
     
     

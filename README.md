@@ -23,12 +23,11 @@ conda env create -f environment.yml
     
 <br>
     Verify that the new environment was installed correctly:<br>
-    `
+    
     conda env list
-    `<br>
+    
+<br>
     You can also use 
     
-    ```
     conda info --envs
     
-    ```

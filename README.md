@@ -17,9 +17,7 @@ conda env create -f environment.yml
     Activate the new environment:
     <br>
     
-    
     conda activate myenv
-    
     
 <br>
     Verify that the new environment was installed correctly:<br>

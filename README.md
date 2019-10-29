@@ -14,7 +14,8 @@ The repository also contains an `environment.yml` file which also contains all t
 
 
 <br>
-    The first line of the yml file sets the new environment's name. For details see [Creating an environment file manually](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#create-env-file-manually).<br><br>
+    The first line of the yml file sets the new environment's name. For details see [Creating an environment file manually](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#create-env-file-manually) .
+    <br><br>
     Activate the new environment:
     <br>
     

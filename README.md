@@ -2,8 +2,9 @@
 This repo contains various different datasets and codes with various different algorithms. It also contains code and demonstrations to run an Artificial Intelligence Algorithm on the edge. It also contains many datasets where one can practice AI.
 <br>
 <font color=red><h1>Environment</h1></font>
-The repository also contains an `environment.yml` file which also contains all the specific versions and libraries used for all the notebooks.<br>
-<h3>To create the environment</h3>
+The repository also contains an `environment.yml` file which also contains all the specific versions and libraries used for all the notebooks. There are also instructions for the same in a word document. >Notebooks > Installation Instructions.docx
+<br>
+<h3>To create the environment (Anaconda)</h3>
 <br>
   Use the terminal or an Anaconda Prompt for the following steps:<br>
   Create the environment from the environment.yml file:<br>

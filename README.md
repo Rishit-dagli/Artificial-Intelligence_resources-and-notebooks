@@ -9,7 +9,7 @@ The repository also contains an `environment.yml` file which also contains all t
   Create the environment from the environment.yml file:<br>
     
 
-conda env create -f environment.yml
+    conda env create -f environment.yml
 
 
 <br>

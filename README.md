@@ -109,7 +109,7 @@ To install the full runtime version of the OpenVINO package:
 
     sudo yum install intel-openvino-runtime-centos7    
     
-<h4>APT</4>
+<h4>APT</h4>
 
 
 Download the public GPG key from https://apt.repos.intel.com/intel-gpg-keys/GPG-PUB-KEY-INTEL-SW-PRODUCTS-2019.PUB and save it to a file.

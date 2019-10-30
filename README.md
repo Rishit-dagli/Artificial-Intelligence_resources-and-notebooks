@@ -6,7 +6,7 @@ The repository also contains an `environment.yml` file which also contains all t
 <br>
 <h3>To create the environment (Anaconda)</h3>
 <br>
-  Use the terminal or an Anaconda Prompt for the following steps:<br>
+  Use the terminal or an Anaconda Prompt for the following steps:<br><br>
   Create the environment from the environment.yml file:<br>
     
 

@@ -1,7 +1,7 @@
 # Artificial-Intelligence_resources-and-notebooks
 
 ![GitHub followers](https://img.shields.io/github/followers/Rishit-dagli?label=Follow&style=social)
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FRishit-dagli%2Fpopup_box)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FRishit-dagli%2Fpopup_box)
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FRishit-dagli%2Fpopup_box)](https://twitter.com/intent/tweet?text=Wow:&url=https://github.com/Rishit-dagli/Artificial-Intelligence_resources-and-notebooks)
 ![Twitter Follow](https://img.shields.io/twitter/follow/rishit_dagli?label=Follow&style=social)
 
 This repo contains various different datasets and codes with various different algorithms. It also contains code and demonstrations to run an Artificial Intelligence Algorithm on the edge. It also contains many datasets where one can practice AI. To be specific more focus here is on Computer Vision and there are mostly car photo datasets. I have also included some notebooks giving info about running applications on edge, using Intel Open Vino Toolkit. You can download the Open Vino toolkit [here](https://software.intel.com/en-us/openvino-toolkit/choose-download).
